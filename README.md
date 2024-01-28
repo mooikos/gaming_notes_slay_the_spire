@@ -1,1 +1,3 @@
-# gaming_notes_slay_the_spire
+# Gaming Notes Slay the Spire
+
+This repository [Wiki](../../wiki) will holds gaming notes
